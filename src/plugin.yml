@@ -1,0 +1,8 @@
+name: ImageScape
+main: com.yugiedev.ImageScape.ImageScape
+version: 1.4
+author: Yugie
+commands:
+ isc:
+  description: Creates a image on the floor with a given url
+  usage: /imagescapecreate <URL>
